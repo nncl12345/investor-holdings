@@ -28,9 +28,11 @@ services:
     plan: free
     healthCheckPath: /health
     autoDeploy: true
-    dockerCommand: >-
-      sh -c "alembic upgrade head &&
-      uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    # No dockerCommand: rely on the Dockerfile's shell-form CMD
+    # (alembic upgrade head && uvicorn …). Overriding here caused
+    # Render to pass the whole "sh -c \"...\"" string to /bin/sh -c,
+    # and the inner sh treated the quoted payload as a single
+    # unfindable command name (exit 127).
     envVars:
       - key: DATABASE_URL
         sync: false         # set in Render dashboard (Supabase URI)
