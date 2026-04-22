@@ -1,0 +1,45 @@
+# Secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Celery
+celerybeat-schedule*
+celerybeat.pid
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Local SQLite (test DBs)
+*.db
+*.sqlite
+*.sqlite3

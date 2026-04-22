@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001539497-25-001038</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: ICAHN CARL C -->
+          <cik>0000921669</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>12</amendmentNo>
+      <securitiesClassTitle>Common Stock, Par Value $1.00 per share</securitiesClassTitle>
+      <dateOfEvent>09/25/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001692115</issuerCIK>
+        <issuerCUSIP>844895102</issuerCUSIP>
+        <issuerName>Southwest Gas Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>C/O SOUTHWEST GAS CORPORATION</com:street1>
+          <com:street2>8360 S. DURANGO DRIVE</com:street2>
+          <com:city>LAS VEGAS</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89113</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Jesse A. Lynn COO</personName>
+          <personPhoneNum>(305) 422-4100</personPhoneNum>
+          <personAddress>
+            <com:street1>Icahn Capital LP</com:street1>
+            <com:street2>16690 Collins Avenue, PH-1</com:street2>
+            <com:city>Sunny Isles Beach</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>33160</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322827</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Partners Master Fund LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>2613437.00</soleVotingPower>
+        <sharedVotingPower>2613437.00</sharedVotingPower>
+        <soleDispositivePower>2613437.00</soleDispositivePower>
+        <sharedDispositivePower>2613437.00</sharedDispositivePower>
+        <aggregateAmountOwned>2613437.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>3.63</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322825</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Offshore LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2613437.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2613437.00</sharedDispositivePower>
+        <aggregateAmountOwned>2613437.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>3.63</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001313666</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Partners LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>3419167.00</soleVotingPower>
+        <sharedVotingPower>3419167.00</sharedVotingPower>
+        <soleDispositivePower>3419167.00</soleDispositivePower>
+        <sharedDispositivePower>3419167.00</sharedDispositivePower>
+        <aggregateAmountOwned>3419167.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.75</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322826</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Onshore LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3419167.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3419167.00</sharedDispositivePower>
+        <aggregateAmountOwned>3419167.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.75</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001412093</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Capital LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001412091</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>IPH GP LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001034563</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Enterprises Holdings L.P.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001257324</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Enterprises G.P. Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001080113</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Beckton Corp.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001889149</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>IEP Utility Holdings LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000921669</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Carl C. Icahn</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>FL</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6032604.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6032604.00</sharedDispositivePower>
+        <aggregateAmountOwned>6032604.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.38</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, Par Value $1.00 per share</securityTitle>
+        <issuerName>Southwest Gas Holdings, Inc.</issuerName>
+        <commentText>This statement constitutes Amendment No. 12 to the Schedule 13D (as amended, the "Schedule 13D") relating to the shares of the common stock, par value $1.00 per share (the "Common Stock"), of Southwest Gas Holdings, Inc., a Delaware corporation (the "Issuer"), and hereby amends the Schedule 13D originally filed with the Securities and Exchange Commission (the "SEC") on June 3, 2022.  All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Schedule 13D.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>As of the date hereof, the Reporting Persons may be deemed to beneficially own, in the aggregate, 6,032,604 shares of Common Stock, representing approximately 8.38% of the Issuer's outstanding shares of Common Stock, based on 71,979,296 shares of Common Stock outstanding as of July 25, 2025, as disclosed by the Issuer in its Form 10-Q for the quarterly period ended June 30, 2025.</percentageOfClassSecurities>
+        <numberOfShares>Icahn Master has sole voting and sole dispositive power with respect to 2,613,437 shares of Common Stock. Each of Icahn Offshore, Icahn Capital, IPH GP, Icahn Enterprises Holdings, Icahn Enterprises GP, Beckton and Mr. Icahn, by virtue of their relationships to Icahn Master, has shared voting power and shared dispositive power with respect to such shares. Icahn Partners has sole voting and sole dispositive power with respect to 3,419,167 shares of Common Stock. Each of Icahn Onshore, Icahn Capital, IPH GP, Icahn Enterprises Holdings, Icahn Enterprises GP, Beckton and Mr. Icahn, by virtue of their relationships to Icahn Partners, has shared voting power and shared dispositive power with respect to such shares. IEP Utility has sole voting power and sole dispositive power and shared and shared dispositive power with respect to 0 shares of Common Stock; however, IEP Utility has been included in this Schedule 13D as it is a signatory to the Updated Cooperation Agreement.</numberOfShares>
+        <transactionDesc>On September 25, 2025, Icahn Partners Master Fund LP sold 651,160 shares of Common Stock and Icahn Partners LP sold 848,840 shares of Common Stock, in each case at a price per share of $77.91. Except as set forth herein, no transactions in the shares of Common Stock were effected by any of the Reporting Persons during the past sixty (60) days.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Partners Master Fund LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Offshore LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Partners LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Onshore LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Capital LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>IPH GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Enterprises Holdings L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Enterprises G.P. Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Beckton Corp.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Vice President</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>IEP Utility Holdings LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Carl C. Icahn</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Carl C. Icahn</signature>
+          <title>Carl C. Icahn</title>
+          <date>09/26/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
